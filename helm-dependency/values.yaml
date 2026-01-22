@@ -1,7 +1,7 @@
 wordpress:
   wordpressPassword: foo
   mariadb:
-    enabled: false
+    enabled: true
     db:
       password: bar
     rootUser:
